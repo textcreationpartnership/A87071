@@ -1,0 +1,465 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the honourable the knights, citizens and burgesses assembled in the Commons House of Parliament. The several petitions of William Hansard and Sir Frederick Hammiltoun knight and colonel. Together with the true state of the case concerning the lands of Lifford, in the county of Donnegal within the kingdom of Ireland. As also the several remonstrances of the committee at Grocers Hall for Irish affairs, in the behalf of Sir Frederick Hammiltoun. With the order of the Honourable House of Commons to the Committee of both Kingdoms; and their order thereupon for Sir Arthur Haslerig to make report.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87071</idno>
+            <idno type="STC">Wing H661</idno>
+            <idno type="STC">Thomason E335_12</idno>
+            <idno type="STC">ESTC R200787</idno>
+            <idno type="EEBO-CITATION">99861440</idno>
+            <idno type="PROQUEST">99861440</idno>
+            <idno type="VID">159674</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87071)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159674)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 54:E335[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the honourable the knights, citizens and burgesses assembled in the Commons House of Parliament. The several petitions of William Hansard and Sir Frederick Hammiltoun knight and colonel. Together with the true state of the case concerning the lands of Lifford, in the county of Donnegal within the kingdom of Ireland. As also the several remonstrances of the committee at Grocers Hall for Irish affairs, in the behalf of Sir Frederick Hammiltoun. With the order of the Honourable House of Commons to the Committee of both Kingdoms; and their order thereupon for Sir Arthur Haslerig to make report.</title>
+                  <author>Hansard, William.</author>
+                  <author>Hamilton, Frederick, Sir, fl. 1645.</author>
+                  <author>Committee of Adventurers in London for Lands in Ireland.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+                  <author>England and Wales. Commissioners of Both Kingdoms.</author>
+               </titleStmt>
+               <extent>37, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London, :</pubPlace>
+                  <date>Anno 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "4th Maij".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Administration of estates --  Ireland --  Early works to 1800.</term>
+               <term>Donegal (Ireland : County) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159674:1" rendition="simple:additions"/>
+            <p>To the Honourable <hi>The Knights, Citizens and Burgeſſes</hi> Aſſembled in the COMMONS HOUSE OF PARLIAMENT. The ſeveral PETITIONS Of WILLIAM HANSARD and Sir FREDERICK HAMMILTOUN Knight and Colonel.</p>
+            <p>Together with the true State of the Caſe concerning the Lands of <hi>Lifford,</hi> in the County of <hi>Donnegal</hi> within the Kingdom of <hi>Ireland.</hi>
+            </p>
+            <p>As alſo, the ſeveral REMONSTRANCES of the Committee at <hi>Grocers Hall</hi> for Iriſh affairs, in the behalf of Sir <hi>Frederick Hammiltoun.</hi>
+            </p>
+            <p>With the ORDER of the Honourable Houſe of Commons to the Committee of both Kingdoms; and their Order thereupon for Sir <hi>Arthur Haſlerig</hi> to make report.</p>
+            <p>Printed at LONDON, <hi>Anno</hi> 1646.</p>
+         </div>
+         <div type="to_the_Parliament">
+            <pb facs="tcp:159674:2"/>
+            <pb n="3" facs="tcp:159674:2"/>
+            <head>To the Honourable the Commons in Parliament aſſembled.</head>
+            <head type="sub">The humble Petition of <hi>William Hanſard,</hi>
+            </head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>Sheweth,</opener>
+                  <p>
+                     <seg rend="decorInit">T</seg>Hat Sir <hi>Frederick Hammiltoun</hi> Knight, above five yeers ſince, procured an Order from this Ho<g ref="char:EOLhyphen"/>nourable Houſe, that the Rents and Profits of the Lands of your Petitioner (at that time an Infant) in and about <hi>Lifford</hi> in the County of <hi>Donnegal</hi> in <hi>Ireland,</hi> ſhould be detained in the hands of Sir <hi>Paul Daviis</hi> Knight, <hi>Edward Stanhope</hi> and <hi>George Walker</hi> Gentlemen, upon pretence of an extra<g ref="char:EOLhyphen"/>judicial Decree made by the late Earl of <hi>Straf<g ref="char:EOLhyphen"/>ford,</hi> in the behalf of your Petitioner; whereas the ſaid Decree was made in the Chancery of that Kingdom, and the Lord Chancellor, by the opinions of Sir <hi>George Shurley</hi> Knight, Lord Chief Juſtice of the Kings Bench; The Lord <hi>Sarsfeild</hi> Lord Chief Juſtice of the Common-Pleas; Sir <hi>Richard Bolton</hi> Knight, Chief Baron of the Court of Exchequer; and the Lord <hi>Aunger,</hi> then Maſter of the Rolls, pronounced the ſame. And after, upon Sir <hi>Frederick Ham<g ref="char:EOLhyphen"/>miltouns</hi>
+                     <pb n="4" facs="tcp:159674:3"/>Appeal here into <hi>England,</hi> the ſaid Decree was ratified and confirmed in the behalf of your Petitioner by the Lord Keeper of the Great Seal, and the Chief Juſtices of the Kings Bench and Common-Pleas in this Kingdom, and by His Majeſtie ratified accordingly.</p>
+                  <p>Notwithſtanding Sir <hi>Frederick Hammiltoun</hi> by threats, diſtreſſes, forceable entries and blood<g ref="char:EOLhyphen"/>ſheds, conſtrained the Tenants to pay the Rents of the ſaid Mannor and Lands unto him; which actions are no way warranted by the ſaid Order from this Honourable Houſe: and by this means your Petitioner hath been thrust and kept out of his just right and poſſeſſion above five yeers as aforeſaid (his estate therein being worth above 500l. <hi>per annum</hi>) and is now likely to periſh for want of bread.</p>
+                  <p>
+                     <hi>He therefore humbly prayeth this Honourable Houſe to take his miſerable condition into ſeri<g ref="char:EOLhyphen"/>ous conſideration; and the ſaid Sir</hi> Frederick Ham<g ref="char:EOLhyphen"/>miltoun <hi>being now in Town, to give preſent Or<g ref="char:EOLhyphen"/>der he may forthwith anſwer his Contempt in abuſing of your Honorable Order; and that your Petitioner may receive ſome Rent our of his ſaid Lands for his preſent livelihood, until his Cauſe may be heard; and alſo that the ſaid Sir</hi> Frederick Hammiltoun <hi>may be cited to appear to anſwer his ſaid Contempt.</hi>
+                  </p>
+                  <closer>
+                     <signed>And your Petitioner ſhall ever pray, <hi>&amp;c.</hi> WILLIAM HANSARD.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+         <div type="to_the_Parliament">
+            <pb n="5" facs="tcp:159674:3"/>
+            <head>To the Honourable the Commons in Parliament aſſembled.</head>
+            <head type="sub">The humble Petition of Sir <hi>Frederick Ham<g ref="char:EOLhyphen"/>miltoun</hi> Knight and Colonel.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Humbly ſhewing,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">T</seg>Hat whereas there is a moſt ſcan<g ref="char:EOLhyphen"/>dalous Petition exhibited to this Honourable Houſe againſt your Petitioner, by and in the name of one <hi>William Hanſard;</hi> who, as your Petitioner conceiveth, is animated thereun<g ref="char:EOLhyphen"/>to by ſome perſons diſaffected to the Petiti<g ref="char:EOLhyphen"/>oner for his former great zeal to the pub<g ref="char:EOLhyphen"/>like Service, and antipathy to their Knave<g ref="char:EOLhyphen"/>ry: in which Petition he alleadges that your Petitioner, by vertue of an Order of this Honourable Houſe, ſhould detain from him the rents and profits of certain Lands in and about <hi>Lifford</hi> in the County of <hi>Don<g ref="char:EOLhyphen"/>negal</hi> in the Kingdom of <hi>Ireland;</hi> which
+<pb n="6" facs="tcp:159674:4"/>Lands he pretends to be his by Decree of Chancery there, and ratified and confirmed here by His Majeſtie: And moſt falſly ſug<g ref="char:EOLhyphen"/>geſts to your Honours, That the Petitioner ſhould practiſe indirect means to force the Tenants to pay their rents; as in that Peti<g ref="char:EOLhyphen"/>tion is more fully and untruly inſerted. And this Petition, that it may take the deeper impreſſion, is printed, and diſperſt abroad, meerly to viliſie and diſparage your Petitioner in his Honour and Reputa<g ref="char:EOLhyphen"/>tion, thinking your Petitioner had (that day the papers were diſperſt) left the Town, and gone to his Charge before <hi>Newark,</hi> as he then intended, not unknown to ſome of the Honourable Members of this Houſe; which if the Petitioner had gone without anſwering, might have brought a harder opinion of him.</p>
+                  <p>May it pleaſe your Honours; your Peti<g ref="char:EOLhyphen"/>tioner hath but lately had intereſt in the ſaid Lands, onely as Heir to Sir <hi>John Vaughan</hi> late deceaſed, whoſe Daughter your Petitioner married, and in whoſe fa<g ref="char:EOLhyphen"/>vour that Order which <hi>Hanſard</hi> chargeth your Petitioner with, was obtained, and in
+<pb n="7" facs="tcp:159674:4"/>his life-time received the Rents. And for that Decree to which he pretends as out of the Chancery, your Honours may be credibly informed, that it ſhall be made ap<g ref="char:EOLhyphen"/>pear to be no ſuch Decree, but an extraju<g ref="char:EOLhyphen"/>dicial proceeding of the late Earl of <hi>Straf<g ref="char:EOLhyphen"/>ford,</hi> ratified and confirmed here by the late Lord Keeper <hi>Finch</hi> (one of <hi>Strafford</hi>'s crea<g ref="char:EOLhyphen"/>tures) and others, meerly upon a bare Re<g ref="char:EOLhyphen"/>ference from His Majeſtie, and by the Earl of <hi>Strafford</hi>'s power and greatneſſe; for oppoſing of whoſe Tyrannical courſes, your Petitioners loſſes and ſufferings have not been few.</p>
+                  <p>That the Petitioners ſufferings and loſſes, not onely before and ſince the horrid Re<g ref="char:EOLhyphen"/>bellion in <hi>Ireland,</hi> are not unknown to this Honourable Houſe; beſides how that he hath ventured life and eſtate to ſtand by the juſt Cauſe of Parliamentary proceed<g ref="char:EOLhyphen"/>ings; never as yet having received either preferment or other reward from the Par<g ref="char:EOLhyphen"/>liament, nothwithſtanding his conſtant Service, and great Arrears due to him: And now to be thus uſed by ſcandalous papers to be put in print and diſperſt againſt him,
+<pb n="8" facs="tcp:159674:5"/>it tends exceedingly not onely to the diſ<g ref="char:EOLhyphen"/>honour of this high Court and the Juſtice thereof, but to the dejecting of all faithful generous Spirits who conſtantly adhere to the Cauſe and Covenant.</p>
+                  <p>
+                     <hi>The premiſes conſidered, And for that all that might be here alleadged to prove his right and title to the Lands aforeſaid, is too much to inſeri by way of Petiti<g ref="char:EOLhyphen"/>on; his most humble ſuit therefore is, That this Ho<g ref="char:EOLhyphen"/>nourable Houſe will be pleaſed for the preſent ſo far to vindicate your own Honour and Order, and the Petitio<g ref="char:EOLhyphen"/>ners reputation, as to make the ſaid</hi> Hanſard <hi>exempla<g ref="char:EOLhyphen"/>ry to all ſcandalous and vilifying perſons, by ſome ſuch ways and means as your Honours ſhall think fit. And for the determination of the premiſes to which he pretends right, the Petitioner ſhall moſt willingly condeſcend and ſubmit to the justice and equity of this Honourable Houſe.</hi>
+                  </p>
+                  <p>
+                     <hi>Humbly praying, That in the mean time you would be pleaſed to caſt an eye upon the following Caſe, as it is truely ſtated, and the proceedings mentioned.</hi>
+                  </p>
+                  <closer>
+                     <signed>And he ſhall pray, <hi>&amp;c.</hi> FREDERICK HAMMILTOUN.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="9" facs="tcp:159674:5"/>
+            <head>The true ſtate of the CASE Concerning the Lands of <hi>Lifford.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">S</seg>IR <hi>Richard Hanſard</hi> ſeiſed in Fee of the Mannor of <hi>Lifford</hi> in <hi>Ireland,</hi> and of divers Lands thereunto belonging, by his Deed bearing date the 6 of <hi>Octob.</hi>
+               <note place="margin">
+                  <hi>6</hi> Octobr. <hi>16</hi> Jacobi. <hi>29</hi> Septembris, <hi>17</hi> Jacobi.</note> 16 <hi>Jacobi,</hi> made a Leaſe to Sir <hi>George Marbury</hi> and <hi>Thomas Perkins,</hi> from the death of the ſaid Sir <hi>Richard,</hi> for the life of Dame <hi>Anne</hi> his wife, and for Nine yeers after, in truſt, to employ the profits to ſuch uſes as Sir <hi>Richard</hi> ſhould by his laſt Will appoint.</p>
+            <p>Sir <hi>Richard Hanſard</hi> having taken ſome diſplea<g ref="char:EOLhyphen"/>ſure againſt <hi>William Hanſard</hi> his Brother and Heir apparant, made his laſt Will, and thereby gave di<g ref="char:EOLhyphen"/>vers yeerly Sums, amounting in the whole to 86 <hi>l. per annum</hi> to divers charitable uſes; all which Sums
+<pb n="10" facs="tcp:159674:6"/>he willed to be paid for ever by his Heirs, out of his Freehold-Lands, and to begin after his Debts paid, <hi>&amp;c.</hi> with this further Clauſe, ITEM, <hi>I give, infeoff, and confirm, after Funerals, Buildings, and Le<g ref="char:EOLhyphen"/>gacies paid and performed, and two yeers after the ſaid Dame</hi> Hanſards <hi>deceaſe, All my eſtate, right,</hi> &amp;c. <hi>in all my houſes and Freehold-Lands, to the ſole and proper uſe and behoof of</hi> John Hanſard <hi>the yonger, ſon of</hi> John Han<g ref="char:EOLhyphen"/>ſard <hi>the elder of Ouſlaby, for life; then to the uſe of</hi> John Hanſard <hi>his ſon, and the Heirs males of their two bodies lawfully begotten: and for want of ſuch Heirs males, the eſtate and inheritance ſhall deſcend and divolve to the pro<g ref="char:EOLhyphen"/>per uſe and behoof of</hi> Robert Hanſard <hi>of London, Gent. and the Heirs males of his body lawfully begotten; then to the uſe of</hi> William <hi>ſon of</hi> Robert Hanſard, <hi>&amp;c.</hi>
+            </p>
+            <p>Then deviſeth two Acres to <hi>Richard Perkins</hi> and his heirs; the like to <hi>Mansfield;</hi> and the ſaid Land to be allotted out by the Executors, and thoſe eſtates to be eſtabliſhed by his Executors: and of his ſaid Will, did make his Wife, Sir <hi>George Mar<g ref="char:EOLhyphen"/>bury,</hi> Sir <hi>John Vaughan</hi> and <hi>Thomas Perkins</hi> Execu<g ref="char:EOLhyphen"/>tors; to whom by the ſaid Will, he giveth certain Leaſehold-land.</p>
+            <p>Sir <hi>Richard Hanſard</hi> dies: and inaſmuch as there was no Feoffment before to the uſes of his laſt Wil, and the Lands not there deviſeable, the Fee and In<g ref="char:EOLhyphen"/>heritance deſcended to the ſaid <hi>William Hanſard,</hi> brother and heir of the ſaid Sir <hi>Richard.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>2</hi> Auguſti. <hi>21</hi> Jacobi.</note> 
+               <hi>William Hanſard,</hi> the brother and heir at law, for 1480<hi>l.</hi> by Indenture grants the premiſes to the ſaid Sir <hi>George Marbury</hi> and <hi>Thomas Perkins,</hi> and their heirs, and to the uſe of them and their heirs; for
+<pb n="11" facs="tcp:159674:6"/>
+               <note place="margin">6 Maii.</note> which they the ſaid Foeffees covenanted to per<g ref="char:EOLhyphen"/>form the pious Requeſts of the ſaid Sir <hi>Richard,</hi> and were bound to Recognizance ſo to do.</p>
+            <p>Sir <hi>George Marbury</hi> and <hi>Thomas Perkins,</hi> for the ſum of 493<hi>l.</hi>—6<hi>s.</hi>—8<hi>d.</hi> grants part of the premiſes to the ſaid Sir <hi>John Vaughan &amp; haered.</hi> to the proper uſe of the ſaid Sir <hi>John</hi> and his heirs; Reſerving nevertheleſſe particularly the third part of ſuch payments as by the laſt Will of the ſaid Sir <hi>Richard</hi> were reſerved to be paid for the charitable uſes, with a Covenant by Sir <hi>John,</hi> for the contribution to a third part of the ſaid charitable uſes.</p>
+            <p>All this appearing upon proof in Chan<g ref="char:EOLhyphen"/>cery, a Decree was conceived, but not drawn up for the purchaſers againſt the pretended deviſers of the Inheritance.</p>
+            <p>
+               <hi>John Hanſard</hi> and his ſon dies without iſſue.</p>
+            <p>Upon Petition preferred to His Majeſtie on the behalf of <hi>William,</hi> ſon and heir of <hi>Robert Hanſard,</hi> ſurmiſing a Feoffment to have been made by Sir <hi>Richard</hi> to the ſaid Sir <hi>George Marbury</hi> and <hi>Thomas Perkins,</hi> and their heirs, to the uſe of the ſaid Sir <hi>Richard</hi> and his heirs, and of his laſt Will, and ſet<g ref="char:EOLhyphen"/>ting forth the requeſt of theſe charitable uſes; and that aſwell the Petitioner, who is thereby ſuppo<g ref="char:EOLhyphen"/>ſed to be right heir of the ſaid Sir <hi>Richard,</hi> as alſo the pious uſes, were fruſtrated by the Executors.</p>
+            <p>The King refers the conſideration of the ſaid Cauſe to the Lord Deputy, to the end that if the Cauſe be ſuch as requires relief in this kinde, his Lordſhip might take further order, <hi>&amp;c.</hi>
+            </p>
+            <pb n="13" facs="tcp:159674:7"/>
+            <p>Upon this Reference, the Lord Deputy with<g ref="char:EOLhyphen"/>draws and overthrows the proceedings in Chance<g ref="char:EOLhyphen"/>ry, and with the aſſiſtance of the Chief Juſtice of the Common-Pleas and Chief Baron of Exche<g ref="char:EOLhyphen"/>quer reciting the Leaſe, the Will and ſeveral paſſa<g ref="char:EOLhyphen"/>ges between the Executors, and the pretended De<g ref="char:EOLhyphen"/>viſees, and <hi>William Hanſard</hi> the heir, and <hi>Robert Da<g ref="char:EOLhyphen"/>vies,</hi> The preſumption and ſuppoſition of a Feoff<g ref="char:EOLhyphen"/>ment; and that the moneys for the purchaſe were raiſed by the Executors, and of the profits of the Land and perſonal Eſtate of Sir <hi>Richard;</hi> and that the ſaid Executors were aſwell truſted for <hi>Hanſard</hi> the Deviſee, as for the pious uſes; and their breach of truſt, by giving notice to <hi>William Hanſard</hi> the Heir, of his Title; and by compounding with him, Awards that Sir <hi>John Vaughan,</hi> and the heirs of the other Executors, receiving the moneys by them paid to <hi>William Hanſard,</hi> and <hi>Robert Davies</hi> not ſatisfied by the profits and perſonal eſtate of Sir <hi>Richard,</hi> ſhould convey the premiſes to perſons nominated by the ſaid Petitioner, to the uſes limit<g ref="char:EOLhyphen"/>ed by the Will; and that the Defendants ſhould be anſwerable to the Petitioner for the ſurpluſage of the profits by them received above ſuch their ex<g ref="char:EOLhyphen"/>pences; and a Commiſſion to iſſue for the aſcer<g ref="char:EOLhyphen"/>taining thereof.</p>
+            <p>By an Order reciting the laſt mentioned Order, and an Order for the ſetling of the poſſeſſion of the premiſes, and conveying thereof, and of all the Defendants eſtate therein, unto the Complainant, and for the delivering of Evidences, and for the payment of 465<hi>l.</hi> —8<hi>s.</hi> by Sir <hi>John Vaughan</hi> to the
+<pb n="12" facs="tcp:159674:7"/>Plaintiff, and another Order for the Sequeſtration of the Rents of the premiſes, and reciting the Plaintiffs minority, and ſeveral Sums of money expended and furniſhed in his behalf in the ſaid Suit, by <hi>Robert Bradbury, Sara</hi> his wife, <hi>Hercules Geilds<g ref="char:EOLhyphen"/>land,</hi> and <hi>Thomas Greene;</hi> It is by the like aſſiſtance ordered that the premiſes ſhall be performed, the Lands conveyed to <hi>Edward Stanhope</hi> and <hi>George Wal<g ref="char:EOLhyphen"/>ker,</hi> by a deed thereunto annexed, unto the uſes therein expreſſed. It is further ordered, that <hi>Ed<g ref="char:EOLhyphen"/>ward Torleton</hi> ſhall be the Plaintiffs Steward and Sollicitor, <hi>cum feod' Anni</hi> 10<hi>l. Thomas Greene</hi> ſhall be Bayliff, <hi>cum feod' Anni</hi> 10<hi>l. Bradbury</hi> and his wife ſhall receive their Bill of Diſburments, <hi>viz.</hi> 386<hi>l.</hi> together with a yeerly Penſion out of the Lands:<note place="margin">Brave Encou<g ref="char:EOLhyphen"/>ragements for Champetters and Maintai<g ref="char:EOLhyphen"/>ners.</note>
+               <hi>Thomas Greene</hi> ſhall receive his Bill of Diſ<g ref="char:EOLhyphen"/>burſements, <hi>viz.</hi> 65<hi>l.</hi>—18<hi>s.</hi> and alſo 17<hi>l. Hercu<g ref="char:EOLhyphen"/>les Geildeſtand</hi> ſhall receive his Bill of Diſburſments, <hi>viz.</hi> 287<hi>l.</hi>—7<hi>s.</hi> and for the recompence of his pains and proſecution, 10<hi>l. Annuatim</hi> during the Plaintiffs minority. The premiſes to be paid out of the profits of the premiſes formerly ſequeſtred, or to be raiſed by the Feoffees, the ſurpluſage of the profits to be diſpoſed by the Lord Deputy for the Plaintiffs benefit.</p>
+            <p>Now the Deed was expreſſed to be to the uſe of <hi>Stanhope</hi> and <hi>Walker</hi> for Seven yeers, for the performance of the purpoſes appointed in the De<g ref="char:EOLhyphen"/>cree; and then to the uſe of <hi>William</hi> the Plaintiff in tail, the Remainders over <hi>pront</hi> in the Will.</p>
+            <pb n="14" facs="tcp:159674:8"/>
+            <p>Upon this Caſe, theſe things are to be admitted.</p>
+            <list>
+               <item>1. That there was no Feoffment by Sir <hi>Richard</hi> to the uſe of his laſt Will.</item>
+               <item>2. That the Lands at the time of the Deviſe and death of the deceaſed, were not deviſe<g ref="char:EOLhyphen"/>able by Statute or Cuſtom.</item>
+               <item>3. That upon the Conveyance by <hi>William Han<g ref="char:EOLhyphen"/>ſard</hi> to the Executor &amp; his Releaſe, proviſion is made for the charitable uſes in the Will, but not for the <hi>Hanſards,</hi> or the bequeſt to them.</item>
+            </list>
+            <p>The Queſtions therefore upon the Caſe will be of two kindes.</p>
+            <list>
+               <item>1. Concerning the right of the <hi>Hanſards</hi> in Law or equity.</item>
+               <item>2. Concerning the Judicial proceeding there<g ref="char:EOLhyphen"/>upon.</item>
+            </list>
+            <p>Upon the Right theſe ſeveral Queſtions have been propounded.</p>
+            <list>
+               <item>1. Whether the Deviſe being void in Law, ſhall yet charge the Land deſcended to the Heir with any truſt or equity for the <hi>Hanſards.</hi>
+               </item>
+               <item>2. Admitting it doth; whether the Executors of Sir <hi>John Vaughan,</hi> having notice thereof, and purchaſing the Land for a valuable conſiderati<g ref="char:EOLhyphen"/>on, are charged with that truſt.</item>
+               <item>3. Admitting it doth not charge the Land in the hands of the Heir; yet when the Land comes to the Executors by purchaſe, being perſons intruſted by Sir <hi>Richard</hi> for performance of his Will; whether they are chargeable with any truſts for the <hi>Hanſards.</hi>
+               </item>
+               <item>4. Admitting they are; who ſhall be anſwered
+<pb n="15" facs="tcp:159674:8"/>for the meaſne profits taken by Executors in the life-time of the predeceſſor of the Plain<g ref="char:EOLhyphen"/>tiff?</item>
+            </list>
+            <p>Upon the proceeding, theſe matters have been moved and are enquirable:
+<list>
+                  <item>1. Whether upon a Reference from His Maje<g ref="char:EOLhyphen"/>ſtie, the Lord Deputy and two Judges may de<g ref="char:EOLhyphen"/>termine a right of Free-hold, or any equitable matter concerning the Cauſe, without both par<g ref="char:EOLhyphen"/>ties conſent, the Suit depending in Chancery.</item>
+                  <item>2. Admit he may; whether the proceedings of the Lord Deputy be warranted by the Kings Direction or no.</item>
+               </list>
+            </p>
+            <p>To the Firſt: As the Deviſe is void in Law to paſſe any uſe already created, there being no Feoff<g ref="char:EOLhyphen"/>ment to uſes, or to paſſe the Land (the ſame being not deviſeable:) ſo it is in it ſelf void to raiſe or create any truſt or uſe remediable in equity againſt the Heir of Sir <hi>Richard</hi> for the <hi>Hanſards.</hi>
+            </p>
+            <list>
+               <item>1. Becauſe the intent of the Deviſor was by the Will to paſſe the Land it ſelf either to the <hi>Hanſards</hi> themſelves, or elſe to the Executors to the uſe of the <hi>Hanſards;</hi> and not to raiſe a uſe out of the eſtate deſcended to the Heir: for that was not the thing willed by the Devi<g ref="char:EOLhyphen"/>ſor, as appears by the Deviſe: and the Rule is generally true in all Laws, <hi>Si non valeat quod ago ut age, non valebit ut valere potest.</hi>
+               </item>
+               <item>2. Although it were admitted that the <hi>Hanſards</hi> were of the blood of the Deviſor (which ap<g ref="char:EOLhyphen"/>pears not) yet this Deviſe meerly voluntary, and depended onely upon the Will of the De<g ref="char:EOLhyphen"/>viſor;
+<pb n="16" facs="tcp:159674:9"/>there being no precedent valuable con<g ref="char:EOLhyphen"/>ſideration on the part of the <hi>Hanſards,</hi> to draw out the eſtate or uſe from the Deviſor, but one<g ref="char:EOLhyphen"/>ly the bare Will of the Deviſor: therefore if the Law be againſt the Deviſees for the paſſing of the Land by the Will, which was the thing intended by the Deviſor; Equity will not ſpeak for them to create a truſt for their bene<g ref="char:EOLhyphen"/>fit, which was not intended, unleſſe the Land had paſſed; for the equity in this caſe follows the Law.</item>
+               <item>3. Although a Will may transfer a uſe already in <hi>eſſe,</hi> or by transferring the Land where it is deviſeable, may create a uſe out of the eſtates transferred; yet it cannot originally and im<g ref="char:EOLhyphen"/>mediately charge the poſſeſſion deſcended to the heir, with a uſe or truſt, eſpecially upon a meer voluntary act.
+<list>
+                     <item>1. Becauſe it is no Deed.</item>
+                     <item>2. The heir regularly cannot originally be charged by the Anceſtor with a uſe or with a truſt, if the Anceſtor, or the Land in the life of the Anceſtor, were not bound or charged.</item>
+                  </list>
+               </item>
+            </list>
+            <p>Therefore Equity ſpeaks for the heir, to whom both Law and Equity gives the Land, if not diſpo<g ref="char:EOLhyphen"/>ſed, rather then from the <hi>Hanſards,</hi> to whom the Teſtator would have given it, but indeed did not. For theſe Reaſons, but eſpecially the two former, I conceive the heir not chargeable with any uſe or truſt.</p>
+            <pb n="9" facs="tcp:159674:9"/>
+            <p>As to the Second Queſtion: If it be admitted that the Lands in the hands of the heir of Sir <hi>Ri<g ref="char:EOLhyphen"/>chard</hi> be charged with ſuch a truſt or uſe remedia<g ref="char:EOLhyphen"/>ble in equity; then the Executors and Sir <hi>John Vaughan</hi> having notice thereof, ſhall be bound to execute the truſt, notwithſtanding the money paid by them.</p>
+            <p>As to the Third: If it be admitted that the heir of Sir <hi>Richard,</hi> or the Lands in his hands, are not cha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>geable with any truſt or uſe remediable in e<g ref="char:EOLhyphen"/>quity; then, although the Lands come to the Ex<g ref="char:EOLhyphen"/>ecutors as in the Caſe, yet they are not chargeable to execute any truſt for the <hi>Hanſards.</hi> My Rea<g ref="char:EOLhyphen"/>ſons are theſe.</p>
+            <list>
+               <item>1. Becauſe the Executors come to the Land un<g ref="char:EOLhyphen"/>der the heir, who was not chargeable with any truſt; therefore not the Executor, no more then if a meer ſtranger had purchaſed the ſame.</item>
+               <item>2. Although their perſons were truſted for the performance of ſo much as was in their power, <hi>viz.</hi> for the adminiſtration of his goods, and the diſpoſing of the profits of the Land during the Leaſe for nine yeers, according to the Will of the deceaſed; yet as to the Inheritance, they were not intruſted: for as it was not ex<g ref="char:EOLhyphen"/>preſly deviſed to them; ſo if it had, yet it paſſ<g ref="char:EOLhyphen"/>ed not to them, but deſcended to the heir diſ<g ref="char:EOLhyphen"/>charged of any truſt.</item>
+               <item>3. There being no truſt or uſe attaching upon the Land of the Deviſor, but the limitation of the
+<pb n="18" facs="tcp:159674:10"/>Teſtator being in all points void, it is impoſſi<g ref="char:EOLhyphen"/>ble that the Quality of the perſons to whom it comes afterwards, ſhould create a truſt or uſe which had never a being before.</item>
+               <item>4. As they were not truſted by the Teſtator with the Land; ſo there was no truſt at all for the <hi>Hanſards</hi> upon the purchaſe by the Exe<g ref="char:EOLhyphen"/>cutors.
+<list>
+                     <item>1. Although by the expreſſe agreement of <hi>William Hanſard</hi> the heir, they were char<g ref="char:EOLhyphen"/>ged for the pious uſes; yet not a word of any truſt for the <hi>Hanſards.</hi>
+                     </item>
+                     <item>2. They paid a valuable conſideration, which, for any thing appears, was their own money, and not money raiſed by them out of the goods or profits of the land of the deceaſed.</item>
+                     <item>3. If it were raiſed of the profits of the Lands or Goods of the deceaſed, yet that is nothing to the <hi>Hanſards;</hi> for they were not entruſted with any the goods or profits during the Nine yeers, or o<g ref="char:EOLhyphen"/>therwiſe for the benefit of the <hi>Hanſards:</hi> and as they did not, ſo had they no rea<g ref="char:EOLhyphen"/>ſon to employ the Teſtators goods for the benefit of Strangers rather then for Themſelves.</item>
+                     <item>4. The ſeveral Treaties of the <hi>Hanſards,</hi> receives a ſufficient Anſwer, and doth not any way impeach the eſtate of the Executors.</item>
+                  </list>
+               </item>
+            </list>
+            <p>For the Fourth: Admitting the Executors
+<pb n="19" facs="tcp:159674:10"/>were chargeable, yet they are not bound in Law or equity (as I conceive) to be anſwerable to the Plaintiff for any meaſne profits taken.</p>
+            <list>
+               <item>1. Before the expiration of the Nine yeers.</item>
+               <item>2. Before the death of <hi>Jo: Jo:</hi> and <hi>Robert Han<g ref="char:EOLhyphen"/>ſard</hi> the Plaintiffs father: for they belong not to the heir, becauſe onely Chattels; nor to the Executors, becauſe never reſted in the Teſta<g ref="char:EOLhyphen"/>tor.</item>
+            </list>
+            <p>Upon the Queſtions for the Judiciary Proceedings.</p>
+            <list>
+               <item>1. The determining of matter of Freehold in ſuch an extraordinary Award, upon a Petition without the conſent of both Parties, where the form of proceeding anciently ſetled in <hi>England</hi> or <hi>Ireland,</hi> as by the Record of thoſe times may ap<g ref="char:EOLhyphen"/>pear.</item>
+               <item>2. If it were true, yet this Petition and this An<g ref="char:EOLhyphen"/>ſwer I conceive to be no warrant to proceed in this manner.</item>
+            </list>
+            <p n="1">1. Becauſe it appears that the very ground of the Petition was falſe principally in theſe points.</p>
+            <list>
+               <item>1. There was no ſuch Feoffment to uſes as therein is pretended.</item>
+               <item>2. There was no perverting or neglecting of the charitable uſes declared by the de<g ref="char:EOLhyphen"/>ceaſed.</item>
+               <item>3. The Petitioner was not heir to the decea<g ref="char:EOLhyphen"/>ſed Sir <hi>Richard Hanſard,</hi> as is therein pre<g ref="char:EOLhyphen"/>tended.</item>
+            </list>
+            <p n="2">2. Becauſe there was no Commiſſion thereupon given by His Majeſtie to proceed; unleſſe the
+<pb n="13" facs="tcp:159674:11"/>Cauſe were ſuch as required relief in ſuch a kinde which refers to the truth and quality of the Surmiſes of the Petition, <hi>viz.</hi> if falſe, or remediable elſewhere, the Anſwer warrants not the proceeding.</p>
+            <p n="3">3. Admitting the Cauſe required relief in this kinde, yet upon the laſt Decree there is cauſe of appeal: for beſides the inſerting of allow<g ref="char:EOLhyphen"/>ances and rewards for ſuch who were no par<g ref="char:EOLhyphen"/>ties to the Suit and whole proſecution and diſ<g ref="char:EOLhyphen"/>burſments on the Petitioners behalf, were not warranted by Law. The Appellant alſo is thereby bound to make a Feoffment to the uſes of the Decree during the Petitioners minority. And if the Appellant ſhould be queſtioned by the Petitioner at his full age again for breach of Truſt in making ſuch conveyance to ſuch uſes; I ſee not how the Petitioner ſhould be bound, or the Defendant ſecured by this Decree, in reſpect of the ſaid payments to be made to the Strangers.</p>
+            <closer>
+               <dateline>
+                  <date>7 <hi>Decembris,</hi> 1638.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="to_the_committee">
+            <pb n="12" facs="tcp:159674:11"/>
+            <head>
+               <note place="margin">Grocers Hall, 29 <hi>October.</hi>
+               </note> 
+               <hi>To the Honourable Committee of both Kingdoms.</hi> The humble REMONSTRANCE Of your SUB-COMMITTEE, Concerning Sir <hi>Frederick Hammiltoun</hi> Knight.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Shewing,</salute>
+                  </opener>
+                  <p>THat by your Order of the <hi>21</hi> of <hi>Octo<g ref="char:EOLhyphen"/>ber, 1644,</hi> we are commanded to con<g ref="char:EOLhyphen"/>ſider of Sir <hi>Frederick Hammiltouns</hi> ſervice,
+<pb n="22" facs="tcp:159674:12"/>and what proportion of the money that is to come in upon the Aſſeſſement for <hi>Ireland,</hi> ſhall be aſſigned unto him. We humbly inform, that he hath given us ſuch an account of his acti<g ref="char:EOLhyphen"/>ons in the particular ſervices done by him and his handful of Forces againſt thoſe Rebels ſince the beginning of the Rebellion in <hi>Ireland,</hi> that no one man in that Kingdom (in our opinions) with ſo ſmall a Force as he hath had, can poſſibly pretend to more ſatisfaction from the State then himſelf; wherein he hath behaved himſelf with ſuch valour and reſolu<g ref="char:EOLhyphen"/>tion, and hath gone thorow ſo many difficulties and dangers with good ſucceſſe, as in our opi<g ref="char:EOLhyphen"/>nions we think him worthy of all encourage<g ref="char:EOLhyphen"/>ment, and a perſon fit to be employed in the Service there, in whatſoever Charge and Com<g ref="char:EOLhyphen"/>mand that ſhall be conferred upon him. And that men of his merit may be encouraged to the like <g ref="char:V">Ʋ</g>ndertakings, you may be pleaſed to think of him for the future, to put ſome Mark of Honour and Acknowledgement upon him ac<g ref="char:EOLhyphen"/>cordingly, as in your Wiſedoms you ſhall think fit. The Committee of Adventurers in <hi>Lon<g ref="char:EOLhyphen"/>don</hi> heretofore have made ſeveral Remonſtran<g ref="char:EOLhyphen"/>ces
+<pb n="23" facs="tcp:159674:12"/>in his behalf; the last of them repreſented unto your Honours, we crave leave, together with an Information of his own to us concern<g ref="char:EOLhyphen"/>ing his ſufferings &amp; loſſes, to annex with theſe, for your further conſideration; which have moved us (amongst many other things) to inform your Honours, that if you ſhall ſo think fit, he may receive Two thouſand pounds out of the Moneys to come in upon the ſaid Ordinance for raiſing of Eighty thouſand pounds, wherewith to ſatisfie and diſcharge the engagements he hath contracted in this time, to ſupply himſelf, family and ſouldiers withal, in this time of action; he having re<g ref="char:EOLhyphen"/>ceived no pay nor helps, but a little pittance which the Committee of Adventurers in <hi>Lon<g ref="char:EOLhyphen"/>don</hi> ſent to him heretofore, to relieve him in his great distreſſes, which is not worthy Re<g ref="char:EOLhyphen"/>membrance; all the Officers and Souldiers of the <hi>Britiſh</hi> Regiments in this time having re<g ref="char:EOLhyphen"/>ceived far more in proportion: And for the time to come, he may be thought upon to be provided for, as others that ſhall have the like Employments and Commands in which you ſhall be pleaſed to put him. All which never<g ref="char:EOLhyphen"/>theleſſe
+<pb n="34" facs="tcp:159674:13"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="35" facs="tcp:159674:13"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="16" facs="tcp:159674:14" rendition="simple:additions"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="25" facs="tcp:159674:14"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="16" facs="tcp:159674:15"/>we humbly leave to your Honours gra<g ref="char:EOLhyphen"/>ver Judgements.</p>
+                  <closer>
+                     <signed>D. WATKINS, By direction of the ſaid Sub-committee.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+         <div type="to_the_sub-committee">
+            <pb n="25" facs="tcp:159674:15"/>
+            <head>To the Honourable Sub-commit<g ref="char:EOLhyphen"/>tee ſitting at <hi>Grocers Hall</hi> for Iriſh affairs. The humble REMONSTRANCE OF <hi>Sir</hi> FREDERICK HAMMILTOUN, Knight and Colonel.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Shewing,</salute>
+                  </opener>
+                  <p>THat in the beginning of the bloody Rebellion, and for many yeers before, he commanded a Gariſon of the old ſtand<g ref="char:EOLhyphen"/>ing Army in <hi>Ireland</hi> at Mannor <hi>Hammilton,</hi> in the Province of <hi>Connaught</hi> and County of <hi>Letrim.</hi>
+                  </p>
+                  <pb n="26" facs="tcp:159674:16"/>
+                  <p>That being at <hi>London-derry</hi> when the ſaid Rebellion brake out, ſome Sixty miles from his Caſtle and Gariſon, he got home with no ſmall hazard of his life.</p>
+                  <p>That immediately he made up his Com<g ref="char:EOLhyphen"/>pany of Foot Two hundred, and Fifty Horſe, maintaining them with his own means and proviſions.</p>
+                  <p>That he by that ſmall handful of Horſe and Foot, hath done (by Gods merciful and powerful aſſiſtance) ſo great ſervices, as he hath not onely maintained his Caſtle to this day, in the midſt of many enemies both from <hi>
+                        <g ref="char:V">Ʋ</g>lster</hi> and <hi>Connaught,</hi> without aid or relief, but hath alſo hanged and cut off many principal Rebels, with divers hundreds of their followers, and amongſt them ſeveral ancient and expert Souldiers ſent from the King of <hi>Spain</hi>'s Service to aſſiſt that horrid action, as doth appear by their ſeveral Paſſes, Papers and Com<g ref="char:EOLhyphen"/>miſſions formerly preſented to this worthy Committee.</p>
+                  <p>That by means of his Appeal to His Majeſtie, and his ſeveral other oppoſitions
+<pb n="27" facs="tcp:159674:16"/>to the late Earl of <hi>Strafford,</hi> late Lord Lieutenant of <hi>Ireland,</hi> for divers unſuffer<g ref="char:EOLhyphen"/>able injuries and extrajudicial proceedings againſt him and his late deceaſed Father-in-law Sir <hi>John Vaughan</hi> Knight, an ancient Privie Councellor of that Kingdom, who had honourably and faithfully ſerved the Crown of <hi>England</hi> in that Army for above Fifty yeers together, dying Governour of <hi>London-derry</hi> ſince this Rebellion, leaving your Petitioner as his Heir and Executor, with a great burden of Debt, by means of the croſſes put upon him by the ſaid Earl of <hi>Strafford;</hi> there being in arrear of enter<g ref="char:EOLhyphen"/>tainment due to him and the Petitioner a<g ref="char:EOLhyphen"/>bove Five thouſand pounds; as by their Warrants of full pay, ſigned by the Depu<g ref="char:EOLhyphen"/>ty and Generals hands, ſhall be made ap<g ref="char:EOLhyphen"/>pear; beſides what may be due to us ſince this Rebellion, having never ſince received any.</p>
+                  <p>That ever ſince this Rebellion brake out, he hath loſt the Rents of his whole Lands in <hi>Connaught,</hi> where he received in peaceable times neer Two thouſand pounds
+<pb n="28" facs="tcp:159674:17"/>
+                     <hi>per annum;</hi> beſides the loſſe of his Stock of Corn and Cattel, with his breed of Horſe and Mares, being neer Four hun<g ref="char:EOLhyphen"/>dred young and old; which he ſo highly eſteemed and valued at that time, as he would not have taken Five thouſand pounds for them.</p>
+                  <p>That he likewiſe had his whole Town and Gariſon, with two ſufficient Corn-Mills, quite burnt down, neer to his Caſtle-walls.</p>
+                  <p>That he likewiſe hath received little or no benefit of neer Six hundred pounds <hi>per annum</hi> which he enjoyed in the Counties of <hi>Donnegal, London-derry</hi> and <hi>Tyrone,</hi> in the Province of <hi>
+                        <g ref="char:V">Ʋ</g>lster,</hi> beſides the perſonal Eſtate of his Father-in-law likewiſe de<g ref="char:EOLhyphen"/>ſtroyed by the Rebels.</p>
+                  <p>That he alſo hath the Broad Seal of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> for the Iſland of <hi>Valencia</hi> in the Pro<g ref="char:EOLhyphen"/>vince of <hi>Munſter</hi> and County of <hi>Kerry,</hi> con<g ref="char:EOLhyphen"/>veyed to him from Sir <hi>John Airs</hi> Knight, in King <hi>James</hi> his time, whereof he had the peaceable poſſeſſion, and attornament of the Tenants in that Iſland.</p>
+                  <pb n="29" facs="tcp:159674:17"/>
+                  <p>That the Regiment of Sir <hi>Robert Steward,</hi> and the Troop of Horſe which he com<g ref="char:EOLhyphen"/>mands, hath taken up of the Petitioners Rents and his Tenants above Four thouſand pounds ſince this Rebellion, in money and goods; which he holds hard meaſure, himſelf being a Souldier, and having acted his part in that Kingdoms Service, that any other ſhould have the benefit of his Rents and Tenants, having Children and Souldiers of his own to maintain there, and cannot at this time receive any; which he prays means may be made to the honorable houſe that this may be remedied, until they be a<g ref="char:EOLhyphen"/>ble to provide better for the Petitioner; he having in all this time received no relief or ſupply but what this worthy Committee was once pleaſed to ſend him, out of their own reſpects: which great teſtimony of your favours, in time of diſtreſſe, ſhall be ever thankfully acknowledged.</p>
+                  <p>And being now referred unto you by the Honourable Committee of both King<g ref="char:EOLhyphen"/>doms, he prayeth you would be pleaſed to take him into your ſpeedy conſideration,
+<pb n="30" facs="tcp:159674:18"/>both for ſuch ſatisfaction as you ſhall think fit to adviſe, towards his great loſſes and paſt ſervices, as for what otherwiſe you ſhall think fit and convenient to be done for him for the future, wherein he ſhall al<g ref="char:EOLhyphen"/>ways faithfully ſerve this Cauſe, and ac<g ref="char:EOLhyphen"/>knowledge your favours.</p>
+                  <closer>
+                     <signed>FREDERICK HAMMILTOUN.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+         <div type="to_the_committee">
+            <pb n="31" facs="tcp:159674:18"/>
+            <head>
+               <hi>To the Honourable Committee of both Kingdoms.</hi>
+               <note place="margin">Grocers Hall, 12 <hi>Aug.</hi> 1644</note> The humble REMONSTRANCE Of the SUB-COMMITTEE At Grocers-Hall for Iriſh affairs, In the behalf of Sir <hi>Frederick Hammiltoun.</hi>
+            </head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>THey humbly crave leave to recommend unto your Honours Sir <hi>Frederick Ham<g ref="char:EOLhyphen"/>miltoun</hi> Knight, a Gentleman well known to both the Honourable Houſes of Parliament, and who hath expreſſed his good affection to their proceedings, by the great ſervice which
+<pb n="32" facs="tcp:159674:19"/>he hath done against thoſe Rebels of <hi>Ireland</hi> ſince the Rebellion; being Honourable both by Birth and Acquiſition; having been a Colo<g ref="char:EOLhyphen"/>nel, and commanded a Brigade of more Regi<g ref="char:EOLhyphen"/>ments in the King of <hi>Swedland</hi>'s Army when he was living; and after that, a Regiment of Horſe in <hi>Scotland;</hi> and hath had ſome com<g ref="char:EOLhyphen"/>mand for a long time in <hi>Ireland</hi> (though not of ſuch eminency as he deſerveth.) He is an Inhabitant within that Kingdom, and as well underſtanding that Countrey and thoſe Rebels, as any other there: That he may be recommen<g ref="char:EOLhyphen"/>ded to the Honourable Houſe of Parliament to be made a Colonel of a Thouſand Foot, and to have the Command of a Troop of Horſe; either to be placed over ſuch Forces whereof the Commanders ſhall be now diſplaced and remo<g ref="char:EOLhyphen"/>ved there, or over ſuch other Forces as are now there in the Province of <hi>Ulſter,</hi> which are not yet Regimented, as thoſe Eleven Compa<g ref="char:EOLhyphen"/>nies in <hi>London-Derry,</hi> and others the like in that Province; or over thoſe Forces not Re<g ref="char:EOLhyphen"/>gimented in <hi>Connaught,</hi> where he hath a fair Eſtate, and may the more engage him in the Service; or how otherwiſe the Parliament
+<pb n="33" facs="tcp:159674:19"/>ſhall think fit. And if a Governour be to be appointed in the City of <hi>London-Derry,</hi> this Committee is informed that no man is better able to diſcharge that Trust, where his Father-in-law, Sir <hi>John Vaughan,</hi> now deceaſed, had the Government before, and with which the ſaid Sir <hi>Frederick Hammiltoun</hi> is well acquain<g ref="char:EOLhyphen"/>ted, and no doubt but will be well accepted of the Citizens.</p>
+                  <closer>
+                     <signed>
+                        <hi>D. WATKINS.</hi>
+                        <list>
+                           <item>
+                              <hi>Sam. Moyer.</hi>
+                           </item>
+                           <item>
+                              <hi>Rich. Leader.</hi>
+                           </item>
+                           <item>
+                              <hi>Hen. Fetherſton.</hi>
+                           </item>
+                           <item>
+                              <hi>James Houblon.</hi>
+                           </item>
+                           <item>
+                              <hi>John Dethick.</hi>
+                           </item>
+                           <item>
+                              <hi>John Kendrick.</hi>
+                           </item>
+                           <item>
+                              <hi>Sam. Avery.</hi>
+                           </item>
+                           <item>
+                              <hi>Jerom Alexander.</hi>
+                           </item>
+                           <item>
+                              <hi>George Thomaſon.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+         <div type="text">
+            <pb n="34" facs="tcp:159674:20"/>
+            <head>Die Lunae, 17 Martii, 1644.</head>
+            <p>IT is this day Ordered by the Commons aſſembled in Parlia<g ref="char:EOLhyphen"/>ment, That the Remonſtrance of the Committee of Adventurers for <hi>Ireland</hi> concerning Sir <hi>Frederick Hammiltoun,</hi> with the Papers anne<g ref="char:EOLhyphen"/>xed, be recommitted to the Com<g ref="char:EOLhyphen"/>mittee of both Kingdoms, to take them, and likewiſe the Petition in Maſter <hi>Vaſſals</hi> hand concerning
+<pb n="35" facs="tcp:159674:20"/>
+               <hi>London-derry,</hi> into ſpeedie conſide<g ref="char:EOLhyphen"/>ration, and to bring a Report into the Houſe, with an opinion what is fit to be done upon the whole.</p>
+            <p>
+               <hi>Hen. Elſynge, Cler. Parl. D. Com.</hi>
+            </p>
+            <div type="part">
+               <pb n="36" facs="tcp:159674:21"/>
+               <head>For Sir <hi>Arthur Haſelrig,</hi> to be reported.</head>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <dateline>At the Committee of both Kingdoms, <date>24 <hi>March,</hi> 1644.</date>
+                        </dateline>
+                        <salute>Ordered,</salute>
+                     </opener>
+                     <p>
+                        <hi>THat it be reported to the Houſe, That whereas it is referred to this Committee to give their opinion what is fit to be done for Sir</hi> Frederick Hammiltoun, <hi>for his good ſervice done; That in reſpect it is for Service past, this Committee cannot do it out of the money of the Ordinance of</hi> October <hi>last; and therefore to deſire the Houſe to take ſome other way how to recompence his ſervice.</hi>
+                     </p>
+                     <p>
+                        <hi>That concerning his Troop of Horſe, and new-levied Foot, for that they have not yet been taken on by the Establiſhment, that
+<pb n="37" facs="tcp:159674:21"/>there can be no allowance made them out of this Money, unleſſe the Houſes be pleaſed to give order for it by ſome other way.</hi>
+                     </p>
+                     <closer>
+                        <signed>By command of the ſame Committee. <hi>J. Cheiſlie.</hi>
+                        </signed>
+                     </closer>
+                     <postscript>
+                        <p>VVHich Report hath never yet been made, neither hath there any thing been done for the ſaid Sir <hi>Frederick</hi> in any of theſe Particu<g ref="char:EOLhyphen"/>lars: which he humbly prays the Honourable Houſe now at laſt to give him their ſpeedy Anſwer what he may truſt to; hoping his ſervice and long ſufferings will appear to have deſerved better, then to be made yet more miſerable with longer atten<g ref="char:EOLhyphen"/>dance.</p>
+                        <p>FRED. HAMMILTOUN.</p>
+                     </postscript>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="errata">
+               <head>ERRATA.</head>
+               <p>Page 11. line 3. for <hi>to,</hi> read <hi>by.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
